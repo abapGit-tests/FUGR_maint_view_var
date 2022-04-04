@@ -1,7 +1,5 @@
 *---------------------------------------------------------------------*
 *    view related FORM routines
-*   generation date: 15.05.2019 at 19:12:53
-*   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 *...processing: ZAGUNITTESTV....................................*
 FORM GET_DATA_ZAGUNITTESTV.

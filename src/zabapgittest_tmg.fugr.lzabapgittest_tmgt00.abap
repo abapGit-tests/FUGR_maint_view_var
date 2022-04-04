@@ -1,7 +1,5 @@
 *---------------------------------------------------------------------*
 *    view related data declarations
-*   generation date: 15.05.2019 at 19:12:53
-*   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 *...processing: ZAGUNITTESTV....................................*
 TABLES: ZAGUNITTESTV, *ZAGUNITTESTV. "view work areas
