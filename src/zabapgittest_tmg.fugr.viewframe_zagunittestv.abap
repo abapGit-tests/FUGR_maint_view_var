@@ -1,7 +1,5 @@
 *---------------------------------------------------------------------*
 *    program for:   VIEWFRAME_ZAGUNITTESTV
-*   generation date: 15.05.2019 at 19:12:52
-*   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 FUNCTION VIEWFRAME_ZAGUNITTESTV        .
 
