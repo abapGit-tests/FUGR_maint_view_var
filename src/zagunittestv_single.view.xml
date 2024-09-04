@@ -56,6 +56,12 @@
      <CONSTANTS>&apos;SINGLE&apos;</CONSTANTS>
     </DD28V>
    </DD28V_TABLE>
+   <TABL_EXTRAS>
+    <TDDAT>
+     <TABNAME>ZAGUNITTESTV_SINGLE</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+   </TABL_EXTRAS>
   </asx:values>
  </asx:abap>
 </abapGit>
